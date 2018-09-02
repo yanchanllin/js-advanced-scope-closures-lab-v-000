@@ -17,10 +17,6 @@ function produceTipCalculator(tip) {
   }
 }
 
-
-
-
-
 function createDriver() {
   let driverId = 0;
 
